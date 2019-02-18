@@ -1,6 +1,8 @@
 * [1 Détermination du besoin](https://github.com/jancelin/CollectGeoData/blob/master/1_besoin.md)
 
-  * 1.1 Réflexion conjointe (Commanditaire, partenaires, terrain, analyste, financeur, utilisateurs externes) sur les données à collecter/centraliser: lesquelles, comment, niveau de précision, pourquoi, est-ce necessaire?
+  * [1.1 Réflexion conjointe]((https://github.com/jancelin/CollectGeoData/blob/master/1_besoin.md#1.1-Réflexion-conjointe)
+
+    >(Commanditaire, partenaires, terrain, analyste, financeur, utilisateurs externes) sur les données à collecter/centraliser: lesquelles, comment, niveau de précision, pourquoi, est-ce necessaire?
 
   * 1.2 Confrontation sur les besoins/necessités/réalités de terrain avec les acteurs de terrain
 
