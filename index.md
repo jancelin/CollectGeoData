@@ -6,7 +6,7 @@
 
   * [1.2 Confrontation sur les besoins/necessités/réalités de terrain avec les acteurs de terrain](https://github.com/jancelin/CollectGeoData/blob/master/1_besoin.md#1.2-Confrontation-sur-les-besoins/necessités/réalités-de-terrain-avec-les-acteurs-de-terrain)
 
-  * [1.3 Listing des référentiels necessaire à la collecte/analyse pour une interopérabilité des données produites]((https://github.com/jancelin/CollectGeoData/blob/master/1_besoin.md#1.3-Listing-des-référentiels-necessaire-à-la-collecte/analyse-pour-une-interopérabilité-des-données-produites)
+  * [1.3 Listing des référentiels necessaire à la collecte/analyse pour une interopérabilité des données produites](https://github.com/jancelin/CollectGeoData/blob/master/1_besoin.md#1.3-Listing-des-référentiels-necessaire-à-la-collecte/analyse-pour-une-interopérabilité-des-données-produites)
   
       >	*Images satelittes
       >	*Référentiels géographiques (limites de zones, caractérisations,...)
