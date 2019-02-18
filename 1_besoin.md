@@ -12,6 +12,49 @@
       >	*Référentiels géographiques (limites de zones, caractérisations,...)
       >	*Réferentiels commun de collecte (sociaux eco, taxons, occupation du sol,...)
       >	*Bonnes pratiques documents de références 
+      
+      ```.
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      ..
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+      ```
 
   * 1.4 Réflexion sur l'Accessibilité de la donnée (FAIR):
   
