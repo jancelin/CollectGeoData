@@ -4,16 +4,16 @@
 
     >(Commanditaire, partenaires, terrain, analyste, financeur, utilisateurs externes) sur les données à collecter/centraliser: lesquelles, comment, niveau de précision, pourquoi, est-ce necessaire?
 
-  * 1.2 Confrontation sur les besoins/necessités/réalités de terrain avec les acteurs de terrain
+  * [1.2 Confrontation sur les besoins/necessités/réalités de terrain avec les acteurs de terrain](https://github.com/jancelin/CollectGeoData/blob/master/1_besoin.md#1.2-Confrontation-sur-les-besoins/necessités/réalités-de-terrain-avec-les-acteurs-de-terrain)
 
-  * 1.3 Listing des référentiels necessaire à la collecte/analyse pour une interopérabilité des données produites:
+  * [1.3 Listing des référentiels necessaire à la collecte/analyse pour une interopérabilité des données produites]((https://github.com/jancelin/CollectGeoData/blob/master/1_besoin.md#1.3-Listing-des-référentiels-necessaire-à-la-collecte/analyse-pour-une-interopérabilité-des-données-produites)
   
       >	*Images satelittes
       >	*Référentiels géographiques (limites de zones, caractérisations,...)
       >	*Réferentiels commun de collecte (sociaux eco, taxons, occupation du sol,...)
       >	*Bonnes pratiques documents de références 
 
-  * 1.4 Réflexion sur l'Accessibilité de la donnée (FAIR):
+  * [1.4 Réflexion sur l'Accessibilité de la donnée (FAIR)](https://github.com/jancelin/CollectGeoData/blob/master/1_besoin.md#1.4-Réflexion-sur-l'Accessibilité-de-la-donnée-(FAIR))
   
       >	*Anonymisation/RGPD (Règlement général sur la protection des données)
       >	*Intéropérabilité (référentiels, OpenData,...)
